@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClsCuartoPunto.cs" />
+    <Compile Include="ClsQuintoPunto.cs" />
+    <Compile Include="ClsSegundoPunto.cs" />
+    <Compile Include="ClsPrimerPunto.cs" />
+    <Compile Include="ClsSeptimoPunto.cs" />
+    <Compile Include="ClsSextoPunto.cs" />
+    <Compile Include="ClsTercerPunto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

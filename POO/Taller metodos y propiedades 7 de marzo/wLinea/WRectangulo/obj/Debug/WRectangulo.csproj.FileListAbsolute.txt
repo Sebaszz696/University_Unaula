@@ -1,0 +1,10 @@
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.csprojAssemblyReference.cache
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.frmDibujarRectangulo.resources
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.Properties.Resources.resources
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.csproj.GenerateResource.cache
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\bin\Debug\WRectangulo.exe.config
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\bin\Debug\WRectangulo.exe
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\bin\Debug\WRectangulo.pdb
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.exe
+C:\Users\unaula\source\repos\WRectangulo\WRectangulo\obj\Debug\WRectangulo.pdb

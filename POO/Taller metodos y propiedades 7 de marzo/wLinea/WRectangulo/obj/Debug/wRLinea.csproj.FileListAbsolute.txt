@@ -1,0 +1,11 @@
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\bin\Debug\WRectangulo.exe.config
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\bin\Debug\WRectangulo.exe
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\bin\Debug\WRectangulo.pdb
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\wRLinea.csproj.AssemblyReference.cache
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\wRLinea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\WRectangulo.Properties.Resources.resources
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\wRLinea.csproj.GenerateResource.cache
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\wRLinea.csproj.CoreCompileInputs.cache
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\WRectangulo.exe
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\WRectangulo.pdb
+C:\Users\Mi pc 1\Desktop\WRectangulo\WRectangulo\obj\Debug\WRectangulo.frmDibujarLinea.resources

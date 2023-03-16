@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wLinea", "WRectangulo\wLinea.csproj", "{70CC9FBC-A216-46A4-B37C-1F8F35535A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CC9FBC-A216-46A4-B37C-1F8F35535A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CC9FBC-A216-46A4-B37C-1F8F35535A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CC9FBC-A216-46A4-B37C-1F8F35535A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CC9FBC-A216-46A4-B37C-1F8F35535A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377490B3-67CC-4FFA-AC7D-BC9224183CB5}
+	EndGlobalSection
+EndGlobal

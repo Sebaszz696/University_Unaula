@@ -1,0 +1,8 @@
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\bin\Debug\CnTemperaturas.exe.config
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\bin\Debug\CnTemperaturas.exe
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\bin\Debug\CnTemperaturas.pdb
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\obj\Debug\CnTemperaturas.csproj.AssemblyReference.cache
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\obj\Debug\CnTemperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\obj\Debug\CnTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\obj\Debug\CnTemperaturas.exe
+C:\Users\ingreso\Desktop\CnTemperaturas\CnTemperaturas\obj\Debug\CnTemperaturas.pdb

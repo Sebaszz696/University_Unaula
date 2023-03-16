@@ -1,8 +1,0 @@
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\bin\Debug\CnTallerPractico.exe.config
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\bin\Debug\CnTallerPractico.exe
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\bin\Debug\CnTallerPractico.pdb
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\obj\Debug\CnTallerPractico.csproj.AssemblyReference.cache
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\obj\Debug\CnTallerPractico.csproj.SuggestedBindingRedirects.cache
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\obj\Debug\CnTallerPractico.csproj.CoreCompileInputs.cache
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\obj\Debug\CnTallerPractico.exe
-C:\Users\Mi pc 1\Desktop\GITHUB\University_Unaula\POO\CnTallerPractico\CnTallerPractico\obj\Debug\CnTallerPractico.pdb

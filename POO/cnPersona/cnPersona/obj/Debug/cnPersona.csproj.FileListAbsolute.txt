@@ -1,8 +1,0 @@
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\bin\Debug\cnPersona.exe.config
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\bin\Debug\cnPersona.exe
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\bin\Debug\cnPersona.pdb
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\obj\Debug\cnPersona.csproj.AssemblyReference.cache
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\obj\Debug\cnPersona.csproj.SuggestedBindingRedirects.cache
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\obj\Debug\cnPersona.csproj.CoreCompileInputs.cache
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\obj\Debug\cnPersona.exe
-C:\Users\Mi pc 1\Desktop\POO\cnPersona\cnPersona\obj\Debug\cnPersona.pdb
